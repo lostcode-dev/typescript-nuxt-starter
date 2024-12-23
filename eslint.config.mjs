@@ -19,6 +19,14 @@ export default withNuxt(
           math: 'always',
         },
       ],
+      'vue/component-tags-order': [
+        'error',
+        {
+          order: ['script', 'template', 'style'],
+        },
+      ],
+      'vue/script-setup-uses-vars': 'off',
+      'max-depth': ['error', 5],
     },
   },
   {
@@ -30,8 +38,6 @@ export default withNuxt(
         { argsIgnorePattern: '^_' },
       ],
       '@typescript-eslint/explicit-module-boundary-types': 'off',
-      'no-console': 'warn',
-      'no-debugger': 'error',
     },
   },
   {
