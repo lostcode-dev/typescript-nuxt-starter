@@ -23,7 +23,7 @@
 
 ## Features
 
-- ⚡️  Nuxt.js
+- ⚡️ Nuxt.js
 - 🪧 Vue.js
 - ⛑ TypeScript
 - 📏 ESLint — To find and fix problems in your code
@@ -32,7 +32,7 @@
 - 🚓 Commitlint — To make sure your commit messages follow the convention
 - 🚫 lint-staged — Run ESLint and Prettier against staged Git files
 - 👷 PR Workflow — Run Type Check & Linters on Pull Requests
-- ⚙️  EditorConfig - Consistent coding styles across editors and IDEs
+- ⚙️ EditorConfig - Consistent coding styles across editors and IDEs
 
 ### Development
 
