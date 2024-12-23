@@ -9,7 +9,7 @@ export default defineNuxtConfig({
   eslint: {
     checker: true,
     config: {
-      stylistic: true,
+      stylistic: false,
     },
   },
-})
+});
