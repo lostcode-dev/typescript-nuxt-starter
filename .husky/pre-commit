@@ -1,1 +1,2 @@
-pnpm lint:eslint
+pnpm lint-staged
+npm run check-branch-name
