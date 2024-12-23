@@ -23,7 +23,7 @@
       "eslint . --fix",
       "eslint ."
     ],
-    "**/*.{vue,css,scss}": [
+    "./src/**/*.{css,scss,vue}": [
       "stylelint ."
     ],
     "**/*": [
